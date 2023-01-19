@@ -3,10 +3,6 @@ digests:
     title: Today's news
     since: 1 day
     items:
-      - url: https://github.com/orgs/Uninett/projects/23/
-        home_repo: Uninett/nav
-      - url: https://github.com/orgs/Uninett/projects/24
-        home_repo: Uninett/Argus
       - https://github.com/Uninett/nav
       - https://github.com/Uninett/nav-debian
       - https://github.com/Uninett/nav-landing-page
@@ -30,10 +26,6 @@ digests:
     title: Last week
     since: 1 week
     items:
-      - url: https://github.com/orgs/Uninett/projects/23/
-        home_repo: Uninett/nav
-      - url: https://github.com/orgs/Uninett/projects/24
-        home_repo: Uninett/Argus
       - https://github.com/Uninett/nav
       - https://github.com/Uninett/nav-debian
       - https://github.com/Uninett/nav-landing-page
