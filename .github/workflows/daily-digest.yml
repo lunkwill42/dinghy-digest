@@ -5,7 +5,7 @@ name: "Daily activity digests"
 on:
   push:
   schedule:
-    - cron: "05 13 * * *"
+    - cron: "13 05 * * *"
   workflow_dispatch:
 
 defaults:
