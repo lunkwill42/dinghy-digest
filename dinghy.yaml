@@ -19,6 +19,8 @@ digests:
       - https://github.com/Uninett/argus_ticket_rt
       - https://github.com/Uninett/argus_ticket_gitlab
       - https://github.com/Uninett/argus_ticket_cookiecutter
+      - https://github.com/Uninett/zino
+      - https://github.com/Uninett/zinolib
       - https://github.com/Uninett/cnaas-nms
       - https://github.com/SUNET/cnaas-nms
 
@@ -43,4 +45,6 @@ digests:
       - https://github.com/Uninett/argus_ticket_gitlab
       - https://github.com/Uninett/argus_ticket_cookiecutter
       - https://github.com/Uninett/cnaas-nms
+      - https://github.com/Uninett/zino
+      - https://github.com/Uninett/zinolib
       - https://github.com/SUNET/cnaas-nms
